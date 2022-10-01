@@ -1,0 +1,3 @@
+student: Gabija Gembickyte
+student number: 700590
+student class: IT1C

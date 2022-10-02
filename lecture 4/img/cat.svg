@@ -1,0 +1,97 @@
+<svg 
+	version="1.1" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	height="70" 
+	width="70"
+	viewbox = "0 0 70 70"
+	>
+	<polygon 
+		points="5,3 15,40 30,40    " 
+		stroke = "#33F"
+		stroke-width = "1"
+		fill = "#50F"
+		/>	
+	<polygon 
+		points="5,3 15,30 30,40    " 
+		stroke = "#33F"
+		stroke-width = "0"
+		fill = "#AAA"
+		/>	
+	<polygon 
+		points="70,3 40,40 55,40    " 
+		stroke = "#33F"
+		stroke-width = "1"
+		fill = "#50F"
+		/>
+	<polygon 
+		points="70,3 40,30 45,40    " 
+		stroke = "#33F"
+		stroke-width = "1"
+		fill = "#AAA"
+		/>
+	<circle
+		cx = "35"
+		cy = "45"
+		r  = "35%"		
+		stroke = "#33F"
+		stroke-width = "1"
+		fill = "#50F"
+		/>
+	<circle
+		cx = "30"
+		cy = "40"
+		r  = "10%"		
+		stroke = "#EEF"
+		stroke-width = "0"
+		fill = "#FFF"
+		/>	
+	<circle
+		cx = "30"
+		cy = "40"
+		r  = "5%"		
+		stroke = "#EEF"
+		stroke-width = "0"
+		fill = "#000"
+		/>	
+	<circle
+		cx = "48"
+		cy = "40"
+		r  = "10%"		
+		stroke = "#EEF"
+		stroke-width = "0"
+		fill = "#FFF"
+		/>
+	<circle
+		cx = "48"
+		cy = "40"
+		r  = "5%"		
+		stroke = "#EEF"
+		stroke-width = "0"
+		fill = "#000"
+		/>
+	<circle
+		cx = "38"
+		cy = "53"
+		r  = "16%"		
+		stroke = "#33F"
+		stroke-width = "0"
+		fill = "#77F"
+		/>
+	<circle
+		cx = "38"
+		cy = "53"
+		r  = "8%"		
+		stroke = "#33F"
+		stroke-width = "0"
+		fill = "#880808"
+		/>
+	<circle
+		cx = "38"
+		cy = "45"
+		r  = "5%"		
+		stroke = "#666"
+		stroke-width = "0"
+		fill = "#111"
+		/>
+</svg>
